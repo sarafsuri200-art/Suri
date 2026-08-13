@@ -319,10 +319,10 @@ span {
     margin: 0.7rem 0.35rem;
 }
 
-.contact form btn {
-    margin-top: 2rem; 
+.contact form .btn {
+    margin-top: 2rem;
+    cursor: pointer;
 }
-
 /* Footer Section Code */
 
 .footer {
